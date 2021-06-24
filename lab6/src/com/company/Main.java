@@ -12,17 +12,17 @@ public class Main {
     public static void main(String[] args) throws IOException {
         TestCollections testCollections = new TestCollections();
         testCollections.main();
-        /*TestApp app = new TestApp();
+        TestApp app = new TestApp();
         app.startApp();
 
         TestByConsole appConsole= new TestByConsole();
-        appConsole.startAppConsole();*/
+        appConsole.startAppConsole();
       // TestFile.main();
 
      //   TestStoreObject storeObject = new TestStoreObject();
       //  storeObject.main();
 
-     //   TestRestoreObject restoreObject = new TestRestoreObject();
+     //   TestRestoreObject restoreObject = new  TestRestoreObject();
       //  restoreObject.main();
 
 

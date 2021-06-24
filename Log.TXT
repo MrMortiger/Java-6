@@ -1,0 +1,3 @@
+Thu Jun 24 09:23:15 EEST 2021 Х х logged in
+Thu Jun 24 09:23:46 EEST 2021 added Wood{id=3, name='Вишня', density=0.7}
+Thu Jun 24 09:24:13 EEST 2021 added Timber{wood=Вишня, weight= 700.0}
